@@ -7,7 +7,7 @@
 * [3. Краткая информация о данных](https://github.com/KAru8/code/tree/main/HW-01/README.md#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](https://github.com/KAru8/code/tree/main/HW-01/README.md#Этапы-работы-над-проектом)
 * [5. Результат](https://github.com/KAru8/code/tree/main/HW-01/README.md#Результат)
-* [6. Выводы](https://github.com/KAru8/code/tree/main/HW-01/README.md###Выводы)
+* [6. Выводы](https://github.com/KAru8/code/tree/main/HW-01/README.md#Выводы)
 
 ### Описание проекта
 
@@ -37,6 +37,6 @@
 
 ### Выводы
 
-Представленный код позволяет решить поставленную задачу, определяя загаданное число в среднем за 6 попыток
+Представленный код позволяет решить поставленную задачу, определяя загаданное число в среднем за 9 попыток
 
 [к оглавлению](https://github.com/KAru8/code/tree/main/HW-01/README.md#Оглавление)
