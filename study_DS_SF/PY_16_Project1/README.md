@@ -2,12 +2,12 @@
 
 ## Оглавление
 
-* [1. Описание проекта](https://github.com/KAru8/code/tree/main/study_DS_SF/PY_16_Project1_Анализ_вакансий/README.md#Описание-проекта)
-* [2. Решаемый кейс](https://github.com/KAru8/code/tree/main/study_DS_SF/PY_16_Project1_Анализ_вакансий/README.md#Решаемый-кейс)
-* [3. Краткая информация о данных](https://github.com/KAru8/code/tree/main/study_DS_SF/PY_16_Project1_Анализ_вакансий/README.md#Краткая-информация-о-данных)
-* [4. Этапы работы над проектом](https://github.com/KAru8/code/tree/main/study_DS_SF/PY_16_Project1_Анализ_вакансий/README.md#Этапы-работы-над-проектом)
-* [5. Результат](https://github.com/KAru8/code/tree/main/study_DS_SF/PY_16_Project1_Анализ_вакансий/README.md#Результат)
-* [6. Выводы](https://github.com/KAru8/code/tree/main/study_DS_SF/PY_16_Project1_Анализ_вакансий/README.md#Выводы)
+* [1. Описание проекта](https://github.com/KAru8/code/tree/main/study_DS_SF/PY_16_Project1/README.md#Описание-проекта)
+* [2. Решаемый кейс](https://github.com/KAru8/code/tree/main/study_DS_SF/PY_16_Project1/README.md#Решаемый-кейс)
+* [3. Краткая информация о данных](https://github.com/KAru8/code/tree/main/study_DS_SF/PY_16_Project1/README.md#Краткая-информация-о-данных)
+* [4. Этапы работы над проектом](https://github.com/KAru8/code/tree/main/study_DS_SF/PY_16_Project1/README.md#Этапы-работы-над-проектом)
+* [5. Результат](https://github.com/KAru8/code/tree/main/study_DS_SF/PY_16_Project1/README.md#Результат)
+* [6. Выводы](https://github.com/KAru8/code/tree/main/study_DS_SF/PY_16_Project1/README.md#Выводы)
 
 ### Описание проекта
 
@@ -55,4 +55,4 @@ https://drive.google.com/file/d/1TaNCBxA9VNIJJQqRRBy6003aG-wvygcH/view?usp=shari
 4. Соискатели с высшим и неоконченным высшим образованием рассчитывают с ротсом опыта на повышение уровня дохода 
 5. Преимущественно соискателей интересует полный рабочий день, наименее интересен вахтовый метод 
 
-[к оглавлению](https://github.com/KAru8/code/tree/main/PY_16_Project1_Анализ_вакансий/README.md#Оглавление)
+[к оглавлению](https://github.com/KAru8/code/tree/main/PY_16_Project1/README.md#Оглавление)
