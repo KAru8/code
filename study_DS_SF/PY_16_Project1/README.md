@@ -55,4 +55,4 @@ https://drive.google.com/file/d/1TaNCBxA9VNIJJQqRRBy6003aG-wvygcH/view?usp=shari
 4. Соискатели с высшим и неоконченным высшим образованием рассчитывают с ротсом опыта на повышение уровня дохода 
 5. Преимущественно соискателей интересует полный рабочий день, наименее интересен вахтовый метод 
 
-[к оглавлению](https://github.com/KAru8/code/tree/main/PY_16_Project1/README.md#Оглавление)
+[к оглавлению](https://github.com/KAru8/code/tree/main/study_DS_SF/PY_16_Project1/README.md#Оглавление)
