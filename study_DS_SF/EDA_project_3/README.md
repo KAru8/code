@@ -39,4 +39,7 @@ MAPE: 0.14141175694476754
 По итогам работы с данными значение метрики улучшено:
 MAPE: 0.07948020095912459
 
+Ссылка на ноутбук kaggle:
+
+
 [к оглавлению](https://github.com/KAru8/code/tree/main/study_DS_SF/EDA_project_3/README.md#Оглавление)
