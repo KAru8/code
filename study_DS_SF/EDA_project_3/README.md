@@ -40,6 +40,7 @@ MAPE: 0.14141175694476754
 MAPE: 0.13657436192571934
 
 Ссылка на ноутбук kaggle:
+
 https://www.kaggle.com/code/andreikuzmin/baseline-v1-karu8
 
 
